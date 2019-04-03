@@ -2,6 +2,10 @@
 
 Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
 
+<<<<<<< HEAD
 Programmers never stop learning. New technologies come out all the time, so the programmers that succeed are the ones who continue to learn and develop their craft on an ongoing basis.
+=======
+An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+>>>>>>> D2F3P2
 
 You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
