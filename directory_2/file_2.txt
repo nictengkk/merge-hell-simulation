@@ -5,7 +5,4 @@ An algorithm is like finding a name in a phonebook. Algorithms are a step-by-ste
 
 It’s ok to make big mistakes. I once made a mistake that cost my company $10,000 dollars. In the process, I learned the most important lesson of my programming career.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
