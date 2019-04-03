@@ -4,4 +4,4 @@ An algorithm is like finding a name in a phonebook. Algorithms are a step-by-ste
 
 Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating to get myself to the point where I felt comfortable attending these. But once I did, I realized that there were a ton of developers just like me.
 
-You’re going to wake up in the morning thinking about code. And when it happens, it’s really freakin’ cool.
+Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
