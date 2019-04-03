@@ -7,3 +7,4 @@ You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don�
 Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
 
 Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
+You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don’t need an insane external monitor setup to be a programmer. The computer that you own right now is probably good enough to use to start programming. Don’t waste your money.
