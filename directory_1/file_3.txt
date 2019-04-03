@@ -12,3 +12,4 @@ Always celebrate the small wins. Building stuff with code is really cool. I neve
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+Programmers never stop learning. New technologies come out all the time, so the programmers that succeed are the ones who continue to learn and develop their craft on an ongoing basis.
