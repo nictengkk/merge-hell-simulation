@@ -7,10 +7,7 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Always celebrate the small wins. Building stuff with code is really cool. I never would have arrived where I’m at if I hadn’t stepped back and admired the awesome things I was building along the way.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
