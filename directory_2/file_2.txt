@@ -1,6 +1,14 @@
 <directory_2/file_2.txt title>
 
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+>>>>>>> add Dir 3 File 2 Para 2
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+=======
+It’s ok to admit what you don’t know. When you land your first programming job, you might be inclined to “fake it till you make it.” Don’t. Nobody expects you to know everything right away.
+>>>>>>> add Dir 3 File 2 Para 2
 
 Meet-ups are incredibly valuable. In the beginning, it was pretty intimidating to get myself to the point where I felt comfortable attending these. But once I did, I realized that there were a ton of developers just like me.
 
